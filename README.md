@@ -27,8 +27,8 @@ node('docker') {
 
 To be able to follow everything described in the book, you will need a machine with the following configurations:
 * Operating systems:
- * * Windows 7/8/10
- * * Ubuntu 14 and later
+ * Windows 7/8/10
+ * Ubuntu 14 and later
 Hardware requirements:
     A machine with a minimum 4 GB memory and a multicore processoOther requirements:
  A GitHub account (public or private)
