@@ -8,7 +8,7 @@ This book starts off by explaining the concepts of CI and its significance in th
 Through this book's wealth of best practices and real-world tips, you'll discover how easy it is to implement CI and CD using Jenkins.
 
 ## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. For example, Chapter09.
 
 
 
@@ -41,6 +41,3 @@ Other requirements:
 * [Continuous Delivery with Docker and Jenkins](https://www.packtpub.com/networking-and-servers/continuous-delivery-docker-and-jenkins?utm_source=github&utm_medium=repository&utm_campaign=9781787125230)
 
 * [Effective Jenkins: Continuous Delivery with Jenkins Pipeline [Video]](https://www.packtpub.com/networking-and-servers/effective-jenkins-continuous-delivery-jenkins-pipeline-video?utm_source=github&utm_medium=repository&utm_campaign=9781788477710)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
